@@ -165,11 +165,6 @@ python app.py
 ```
 http://127.0.0.1:5000
 ```
-
-### Running Locally (VS Code)
-
-![Application running locally in VS Code](screenshots/running_locally_vscode.png)
-
 ---
 
 # 🚀 Live Demo
