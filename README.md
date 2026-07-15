@@ -210,26 +210,6 @@ The best-performing model is selected based on evaluation metrics and saved as a
 
 ---
 
-# 📸 Screenshots
-
-### 🏠 Home Page
-
-![Home Page](screenshots/home_page.png)
-
-### 📝 Applicant Details Form
-
-![Applicant Details Form](screenshots/applicant_details_form.png)
-
-### ✅ Approved Prediction
-
-![Approved Prediction](screenshots/approved_prediction.png)
-
-### ❌ Rejected Prediction
-
-![Rejected Prediction](screenshots/rejected_prediction.png)
-
----
-
 # 📈 Future Enhancements
 
 - Improve model accuracy using larger datasets.
